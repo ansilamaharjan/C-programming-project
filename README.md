@@ -1,4 +1,3 @@
-# C-programming-project
 # Movie ticket booking system
 * key features:
   - to book a ticket: book name of the movie, time, date and seat number. Ask the user their name and phone number?
